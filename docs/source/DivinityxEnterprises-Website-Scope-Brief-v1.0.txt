@@ -1,0 +1,875 @@
+Proceed with the Divinityx Enterprises LLC Corporate Headquarters & Ecosystem Directory Website v1.0.
+
+PROJECT IDENTITY
+
+Project Name:
+DivinityxEnterprises.com
+
+Legal Entity:
+Divinityx Enterprises LLC
+
+Jurisdiction:
+Commonwealth of Kentucky
+
+Management Structure:
+Manager-managed
+
+Initial Manager:
+Elijah Lee Cooley
+
+Official Corporate Email:
+corporate@divinityxenterprises.com
+
+Primary Public Location:
+Louisville, Kentucky
+
+PROJECT PURPOSE
+
+Build the official corporate website and digital headquarters for Divinityx Enterprises LLC.
+
+This is not intended to be a large customer-service platform, e-commerce website, investor portal, or separate operating-company website.
+
+Its primary functions are to:
+
+1. establish Divinityx Enterprises LLC as a legitimate parent and operating company;
+2. explain the purpose and structure of the Divinityx ecosystem;
+3. distinguish registered DBAs from brands, programs, systems, media properties, and developing initiatives;
+4. display approved ecosystem logos as premium clickable directory cards;
+5. route visitors to the correct external website or internal overview page;
+6. provide a professional corporate contact destination;
+7. preserve legal accuracy without publishing private Trust or family-governance information.
+
+The site should feel like the official headquarters of a serious, long-term business ecosystem.
+
+LOCKED POSITIONING
+
+Primary corporate statement:
+
+“Building companies, systems, stories, and institutions designed to create lasting human and generational value.”
+
+Supporting statement:
+
+“Divinityx Enterprises LLC develops and governs a growing ecosystem across publishing, artificial intelligence, automotive services, media, business infrastructure, legacy preservation, and mission-driven initiatives.”
+
+Do not describe Divinityx Enterprises LLC as a venture-capital fund, financial institution, nonprofit, church, public charity, clinical provider, law firm, or licensed investment adviser.
+
+LEGAL AND CLASSIFICATION LOCKS
+
+The website must not call every ecosystem entry a subsidiary or separate company.
+
+Use the following classifications accurately.
+
+REGISTERED ASSUMED NAMES / OPERATING DIVISIONS
+
+1. Divinityx Publishing Company
+
+Legal presentation:
+
+Divinityx Enterprises LLC
+d/b/a Divinityx Publishing Company
+
+Classification:
+Registered assumed name and publishing operating division
+
+Description:
+A publishing operation focused on author development, manuscript production, publication, intellectual-property development, and long-term catalog growth.
+
+2. Artificial Intelligence Capital Ventures
+
+Legal presentation:
+
+Divinityx Enterprises LLC
+d/b/a Artificial Intelligence Capital Ventures
+
+Classification:
+Registered assumed name and AI venture-development division
+
+Description:
+The artificial-intelligence, product-development, venture-building, and proprietary-systems division of Divinityx Enterprises LLC.
+
+Do not use “AICV” as the legal seller unless a separate AICV assumed-name filing is later confirmed.
+
+Public brand treatment may say:
+
+Artificial Intelligence Capital Ventures
+AICV
+
+3. Carfixd Automotive
+
+Legal presentation:
+
+Divinityx Enterprises LLC
+d/b/a Carfixd Automotive
+
+Classification:
+Registered assumed name and automotive-services division
+
+Description:
+An automotive-service operation focused on transparent diagnostics, mobile service, vehicle maintenance, inspections, and practical customer education.
+
+PROGRAMS, SYSTEMS, BRANDS, AND DEVELOPING INITIATIVES
+
+4. Voice to Legacy™
+
+Classification:
+Legacy-preservation and publishing-development program of Divinityx Publishing Company
+
+Description:
+An interview-led system that helps people transform their voice, experiences, knowledge, and life story into professionally developed published works.
+
+Legal footer:
+
+Voice to Legacy™ is a publishing-development program of Divinityx Enterprises LLC d/b/a Divinityx Publishing Company.
+
+IMPORTANT:
+The provided Voice to Legacy logo contains the phrase “Divinityx Publishing Company LLC.”
+
+That wording is not legally accurate under the current structure.
+
+Do not publicly display the inaccurate legal footer.
+
+Preserve the original uploaded image in the project archive, but create a web-safe presentation that does one of the following:
+
+- crops the inaccurate footer while retaining the Voice to Legacy emblem and name;
+- masks only the inaccurate footer through a non-destructive derivative asset; or
+- uses the emblem and wordmark with an accurate HTML caption beneath it.
+
+Do not destructively overwrite the source image.
+
+5. Fundability Labs™
+
+Classification:
+Business-structuring and fundability-development platform in development
+
+Status:
+In Development
+
+Description:
+A developing business-readiness system focused on entity coherence, financial infrastructure, records, evidence, banking readiness, and responsible capital preparation.
+
+Do not promise financing, guaranteed approvals, credit repair, lender acceptance, funding amounts, or investment returns.
+
+6. Divinityx Media
+
+Classification:
+Media and communications division in development
+
+Status:
+In Development
+
+Description:
+The developing media, communications, research, documentary, publishing-support, and audience-development division of the Divinityx ecosystem.
+
+Do not label Divinityx Media as a registered DBA unless a later filing is confirmed.
+
+7. SignalBreak™
+
+Classification:
+Public-interest intelligence and media property associated with Divinityx Media
+
+Status:
+In Development or Active Research, configurable in the data file
+
+Description:
+An explainable public-interest intelligence and media system designed to identify emerging signals, examine infrastructure beneath headlines, classify claims, and communicate responsible analysis.
+
+SignalBreak is not a separate legal company unless later documentation confirms otherwise.
+
+8. Divinityx Ministries
+
+Classification:
+Faith and mission initiative in development
+
+Status:
+In Development
+
+Description:
+A developing faith-centered initiative focused on truth, purpose, service, restoration, and generational impact.
+
+Do not describe it as:
+
+- a church;
+- a nonprofit corporation;
+- a 501(c)(3);
+- a 508(c)(1)(a) organization;
+- a tax-exempt ministry;
+- a public charity; or
+- a separately formed legal entity
+
+unless future approved records confirm that status.
+
+9. Divinityx Manifestation
+
+Classification:
+Faith, spiritual-development, or publishing initiative requiring final founder classification
+
+Status:
+In Development
+
+Temporary public description:
+
+“A developing Divinityx initiative centered on faith, purpose, spiritual formation, written truth, and the disciplined transformation of vision into meaningful action.”
+
+Do not make prosperity guarantees, supernatural financial promises, health claims, or representations that outcomes are assured.
+
+PRIVATE OWNERSHIP AND CONTINUITY STRUCTURE
+
+The Lux Aeterna Dawn Cooley Family Trust must not be presented as a normal commercial directory card.
+
+Do not publish:
+
+- private Trust terms;
+- beneficiary names;
+- family succession instructions;
+- Trustee powers;
+- asset schedules;
+- addresses;
+- signatures;
+- tax identification information; or
+- internal governance records.
+
+A subtle public statement may say:
+
+“Divinityx Enterprises LLC is being structured for responsible long-term stewardship, continuity, and generational value.”
+
+Do not state that the Trust legally owns the LLC unless founder-approved execution records confirm that the ownership transfer has been completed.
+
+INITIAL SITE ARCHITECTURE
+
+Build a compact four-page corporate website plus a custom 404 page.
+
+Required routes:
+
+/
+Home
+
+/ecosystem
+Ecosystem Directory
+
+/about
+About Divinityx
+
+/contact
+Corporate Contact
+
+/ecosystem/:slug
+Internal ecosystem overview pages for brands whose separate websites are not yet live
+
+/*
+Custom 404 page
+
+HEADER
+
+Include:
+
+- Divinityx Enterprises LLC logo
+- Home
+- Ecosystem
+- About
+- Contact
+- “Explore the Ecosystem” call-to-action button
+
+The header should be responsive, accessible, and restrained.
+
+Do not overcrowd it with every brand logo.
+
+HOME PAGE
+
+Build the homepage in this order.
+
+1. CORPORATE HERO
+
+Use the Divinityx Enterprises logo as the dominant visual identity.
+
+Headline:
+
+“Enterprise Built for Legacy.”
+
+Supporting copy:
+
+“Divinityx Enterprises LLC develops and governs a growing ecosystem of companies, operating divisions, platforms, media properties, and mission-driven initiatives designed to create lasting human and generational value.”
+
+Primary CTA:
+
+Explore the Ecosystem
+
+Secondary CTA:
+
+Corporate Contact
+
+2. WHAT DIVINITYX IS
+
+Explain that Divinityx Enterprises LLC is the parent operating and governance company behind a developing multidisciplinary ecosystem.
+
+Use concise copy.
+
+Do not expose internal legal documents.
+
+3. REGISTERED OPERATING DIVISIONS
+
+Display large clickable cards for:
+
+- Divinityx Publishing Company
+- Artificial Intelligence Capital Ventures
+- Carfixd Automotive
+
+Each card must include:
+
+- approved logo;
+- legal classification;
+- one-sentence description;
+- status;
+- action label;
+- destination behavior.
+
+4. PLATFORMS AND PROGRAMS
+
+Display:
+
+- Voice to Legacy™
+- Fundability Labs™
+
+Add other founder-approved programs only through the central ecosystem data file.
+
+5. MEDIA AND INTELLIGENCE
+
+Display:
+
+- Divinityx Media
+- SignalBreak™
+
+6. FAITH, PURPOSE, AND MISSION
+
+Display:
+
+- Divinityx Ministries
+- Divinityx Manifestation
+
+Clearly label both as “In Development.”
+
+7. CORPORATE PHILOSOPHY
+
+Use four or five concise principles:
+
+- Faith
+- Intelligence
+- Enterprise
+- Service
+- Legacy
+
+Suggested copy:
+
+“Divinityx is built on the belief that disciplined faith, sound governance, intelligent systems, meaningful service, and long-term stewardship can produce institutions that outlive their founder.”
+
+8. FINAL CTA
+
+Headline:
+
+“Find the Right Divinityx Destination.”
+
+Buttons:
+
+Explore the Ecosystem
+Contact the Corporate Office
+
+ECOSYSTEM DIRECTORY PAGE
+
+Create grouped sections:
+
+1. Registered Operating Divisions
+2. Platforms and Programs
+3. Media and Intelligence
+4. Mission and Faith Initiatives
+5. Future Ventures, displayed only when approved
+
+Every directory entry must be generated from structured data rather than hard-coded separately.
+
+Each card must contain:
+
+- id;
+- slug;
+- official public name;
+- classification;
+- parent entity;
+- short description;
+- extended description;
+- logo path;
+- alternate logo path when available;
+- destination type;
+- destination URL;
+- status;
+- accent category;
+- legal disclosure;
+- sort order;
+- visibility flag.
+
+Recommended TypeScript structure:
+
+type EcosystemEntry = {
+  id: string;
+  slug: string;
+  name: string;
+  shortName?: string;
+  classification: string;
+  parent: string;
+  description: string;
+  longDescription: string;
+  logo: string;
+  alternateLogo?: string;
+  compactLogo?: string;
+  destinationType: "external" | "internal" | "comingSoon";
+  destinationUrl?: string;
+  status: "Active" | "In Development" | "Coming Soon" | "Internal";
+  accent: "gold" | "blue" | "red" | "white";
+  legalDisclosure?: string;
+  order: number;
+  visible: boolean;
+};
+
+Store the entries in:
+
+src/data/ecosystem.ts
+
+Store confirmed external destinations in:
+
+src/config/links.ts
+
+Do not scatter destination URLs throughout components.
+
+CARD ROUTING LOGIC
+
+For each ecosystem card:
+
+1. When a confirmed external website exists:
+   - open the external destination;
+   - use target="_blank";
+   - use rel="noopener noreferrer";
+   - visibly indicate that the destination opens a separate site.
+
+2. When no separate website is live:
+   - route to /ecosystem/:slug;
+   - provide an internal overview page;
+   - show the correct status;
+   - never use a broken or fake URL.
+
+3. When an entry is not ready for a full profile:
+   - display “Coming Soon”;
+   - keep the card non-deceptive;
+   - do not pretend the operation is accepting customers.
+
+CLICKABLE LOGO CARD BEHAVIOR
+
+Desktop:
+
+- entire card is clickable;
+- subtle logo scale on hover;
+- controlled border illumination;
+- clear focus state;
+- short description remains readable;
+- avoid excessive animation.
+
+Mobile:
+
+- entire card is tappable;
+- no essential information depends on hover;
+- logo remains uncropped;
+- card copy remains readable;
+- buttons meet minimum touch-target requirements.
+
+ABOUT PAGE
+
+Create sections for:
+
+1. Who We Are
+2. What We Build
+3. How the Ecosystem Works
+4. Founder Leadership
+5. Governance and Continuity
+6. Corporate Principles
+
+Founder section:
+
+“Elijah Lee Cooley is the founder and initial manager of Divinityx Enterprises LLC. His work centers on developing businesses, publishing systems, artificial-intelligence infrastructure, media platforms, service operations, and long-term institutions intended to create practical and generational value.”
+
+Do not publish private biographical, medical, recovery, criminal-history, family, or financial details without separate founder approval.
+
+CONTACT PAGE
+
+Display:
+
+Corporate Office:
+Divinityx Enterprises LLC
+
+Email:
+corporate@divinityxenterprises.com
+
+Location:
+Louisville, Kentucky
+
+Inquiry categories:
+
+- General Corporate Inquiry
+- Business Partnerships
+- Publishing and Author Services
+- Technology and Venture Development
+- Automotive Services
+- Media Inquiry
+- Legal or Administrative Correspondence
+
+Do not create a form that appears to submit successfully without a working backend.
+
+For v1, use:
+
+- mailto links;
+- copy-email controls;
+- clearly labeled inquiry paths.
+
+No street address should be emphasized publicly unless separately approved.
+
+LOGO AND ASSET GOVERNANCE
+
+Create this asset structure:
+
+public/
+  assets/
+    corporate/
+    divisions/
+    programs/
+    media/
+    mission/
+    archive/
+
+Use optimized WebP or PNG derivatives for production while preserving original uploaded files in the archive directory.
+
+Recommended asset mapping:
+
+Corporate:
+- Divinityx Enterprises primary crest
+
+Registered Divisions:
+- Divinityx Publishing Company logo
+- Artificial Intelligence Capital Ventures / AICV logo
+- Carfixd Automotive primary full lockup
+- Carfixd Automotive horizontal wordmark
+- Carfixd Automotive compact gear-and-vehicle icon
+
+Programs:
+- Voice to Legacy logo, corrected or safely cropped for legal accuracy
+- Fundability Labs banner and compact mark when available
+
+Media:
+- Divinityx Media logo
+- SignalBreak logo
+
+Mission:
+- Divinityx Ministries logo
+- Divinityx Manifestation logo
+
+Do not stretch, distort, recolor, or place logos on backgrounds that destroy readability.
+
+The Carfixd logo’s red accent may appear within its card and profile page, but it must not replace the parent site’s global navy-and-gold identity.
+
+The AICV blue should remain localized to AICV components.
+
+SignalBreak red should remain localized to SignalBreak components.
+
+VISUAL SYSTEM
+
+Primary palette:
+
+- Midnight navy
+- Near-black
+- Metallic gold
+- Warm ivory
+- Restrained celestial blue
+
+Visual qualities:
+
+- premium;
+- institutional;
+- modern;
+- celestial but controlled;
+- authoritative;
+- spacious;
+- responsive;
+- readable.
+
+The Divinityx Enterprises crest must remain the dominant identity.
+
+Do not make the page resemble:
+
+- a church flyer;
+- a fantasy poster;
+- an unstructured logo collage;
+- a gaming website;
+- a cryptocurrency landing page;
+- an aggressive funding advertisement.
+
+Use subtle effects:
+
+- soft star-field texture;
+- restrained glow;
+- faint gold grid or constellation lines;
+- slow and accessible motion;
+- elegant section transitions.
+
+Respect prefers-reduced-motion.
+
+TECHNICAL STACK
+
+Use:
+
+- React
+- Vite
+- TypeScript
+- Tailwind CSS
+- React Router
+- static structured data
+- reusable components
+
+Do not add:
+
+- backend;
+- database;
+- authentication;
+- CMS;
+- payment processing;
+- user accounts;
+- admin dashboard;
+- cloud functions;
+- paid APIs;
+- analytics requiring payment;
+- external AI integration.
+
+Recommended component architecture:
+
+src/
+  components/
+    layout/
+      Header.tsx
+      Footer.tsx
+      PageShell.tsx
+    ecosystem/
+      EcosystemCard.tsx
+      EcosystemGrid.tsx
+      StatusBadge.tsx
+      ClassificationLabel.tsx
+      LegalDisclosure.tsx
+    shared/
+      SectionHeading.tsx
+      CorporateButton.tsx
+      LogoImage.tsx
+  data/
+    ecosystem.ts
+  config/
+    links.ts
+    site.ts
+  pages/
+    HomePage.tsx
+    EcosystemPage.tsx
+    EcosystemDetailPage.tsx
+    AboutPage.tsx
+    ContactPage.tsx
+    NotFoundPage.tsx
+  styles/
+  types/
+
+ACCESSIBILITY REQUIREMENTS
+
+Meet WCAG-oriented baseline requirements.
+
+Include:
+
+- semantic landmarks;
+- keyboard-accessible navigation;
+- visible focus states;
+- descriptive image alt text;
+- sufficient contrast;
+- proper heading hierarchy;
+- reduced-motion support;
+- accessible external-link indicators;
+- buttons and links with clear names;
+- no text embedded only inside images when the same information is necessary for navigation.
+
+Every logo must have accurate alt text.
+
+Example:
+
+“Carfixd Automotive logo featuring a red vehicle, mechanical gear, and Carfixd wordmark.”
+
+PERFORMANCE REQUIREMENTS
+
+- Optimize all logo assets.
+- Avoid loading full-resolution originals when smaller derivatives are sufficient.
+- Lazy-load below-the-fold images.
+- Prevent cumulative layout shift.
+- Target strong Lighthouse performance.
+- Avoid autoplay video.
+- Avoid heavy animation libraries unless demonstrably necessary.
+- Keep the first release static and lightweight.
+
+SEO AND METADATA
+
+Use:
+
+Title:
+Divinityx Enterprises LLC | Corporate Headquarters
+
+Description:
+Explore Divinityx Enterprises LLC and its ecosystem across publishing, artificial intelligence, automotive services, media, legacy preservation, and developing business platforms.
+
+Add:
+
+- Open Graph metadata;
+- favicon based on the Divinityx Enterprises emblem;
+- canonical URL configuration;
+- organization schema using only verified legal facts;
+- individual page titles and descriptions;
+- robots.txt;
+- sitemap.xml.
+
+Do not add unsupported revenue, investment, funding, customer-count, employee-count, or market-leadership claims.
+
+FOOTER
+
+Use:
+
+Divinityx Enterprises LLC
+Louisville, Kentucky
+corporate@divinityxenterprises.com
+
+Required legal disclosure:
+
+“Divinityx Publishing Company, Artificial Intelligence Capital Ventures, and Carfixd Automotive are registered assumed names of Divinityx Enterprises LLC. Other names displayed on this website may identify programs, platforms, systems, media properties, mission initiatives, or developing ventures and are not represented as separate legal entities unless expressly stated.”
+
+Add:
+
+© 2026 Divinityx Enterprises LLC. All rights reserved.
+
+Do not use “Divinityx Publishing Company LLC.”
+
+CONTENT GOVERNANCE
+
+Clearly distinguish:
+
+- Verified legal entity
+- Registered assumed name
+- Operating division
+- Brand
+- Program
+- Platform
+- Media property
+- Mission initiative
+- In-development venture
+
+Never upgrade an entry’s classification merely because it has a logo, domain, repository, document, or business concept.
+
+Do not state that a separate company exists without formation evidence.
+
+Do not state that the Trust owns the LLC without execution evidence.
+
+Do not state that a ministry is tax exempt without approved evidence.
+
+Do not state that Fundability Labs guarantees funding.
+
+Do not present SignalBreak analysis as classified, secret, or governmental intelligence.
+
+Do not present AICV as managing an investment fund.
+
+NO-SCOPE ITEMS
+
+The first release must not include:
+
+- investment solicitation;
+- crowdfunding;
+- securities offerings;
+- guaranteed financing;
+- client login;
+- author portal;
+- mechanic booking system;
+- AI dashboard;
+- donation processing;
+- ministry membership;
+- product checkout;
+- newsletter backend;
+- private Trust data;
+- public legal-document downloads;
+- live customer intake forms;
+- unsupported testimonials;
+- invented performance metrics.
+
+FOUNDER REVIEW GATE
+
+Do not deploy the website publicly until the founder reviews:
+
+1. homepage visual hierarchy;
+2. every ecosystem classification;
+3. every logo;
+4. every external destination;
+5. every legal disclosure;
+6. the Voice to Legacy corrected presentation;
+7. the public treatment of Divinityx Ministries and Divinityx Manifestation;
+8. the Trust and continuity language;
+9. mobile responsiveness;
+10. the final footer.
+
+Before deployment, provide:
+
+- local preview;
+- screenshot evidence for desktop and mobile;
+- route list;
+- asset manifest;
+- ecosystem data manifest;
+- link-destination manifest;
+- accessibility review;
+- Lighthouse summary;
+- list of all Coming Soon entries;
+- list of all external links;
+- confirmation that no private Trust information appears.
+
+ACCEPTANCE CRITERIA
+
+The release passes only when:
+
+- the parent company identity is dominant;
+- all registered DBAs are correctly classified;
+- Carfixd Automotive uses the newly supplied logo assets;
+- no logo is distorted or cropped improperly;
+- Voice to Legacy does not publicly claim “Divinityx Publishing Company LLC”;
+- all cards are clickable and route correctly;
+- no card leads to a broken link;
+- every non-live property has an internal overview or honest Coming Soon state;
+- the site works on desktop, tablet, and mobile;
+- the site is keyboard navigable;
+- the corporate email is correct;
+- no backend or paid infrastructure has been introduced;
+- no unsupported legal, funding, ministry, ownership, or investment claims appear;
+- the founder-review gate remains closed until explicit approval.
+
+DELIVERABLES
+
+Produce:
+
+1. complete React/Vite/TypeScript/Tailwind implementation;
+2. four public pages plus ecosystem detail routes and 404 page;
+3. structured ecosystem data file;
+4. centralized link configuration;
+5. optimized asset directory;
+6. reusable clickable ecosystem-card system;
+7. responsive navigation and footer;
+8. legal disclosure system;
+9. README with setup and local-preview instructions;
+10. asset manifest;
+11. route manifest;
+12. founder-review checklist;
+13. build evidence and screenshots.
+
+Begin with repository inspection and a concise implementation plan.
+
+Do not create unrelated functionality.
+
+Do not deploy.
+
+Do not reinterpret the approved legal classifications.
+
+Preserve this prompt as the governing website scope until Elijah Lee Cooley explicitly approves a revision.

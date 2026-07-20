@@ -1,0 +1,13 @@
+# DIVINITYX ENTERPRISES WEBSITE BUILD CANON SOURCE MANIFEST
+# Project ID: DXE-WEB-001
+# Prepared: July 20, 2026
+
+127df660c7afe90aa04b38eb87d73d3c003f1fa06a63b60a3d6f038ff863e786  DivinityxEnterprises-Website-Scope-Brief-v1.0.txt
+d42a1ddd7f159e54b150178e14c337e5a79b19314ff1e57da9b31909877786e5  AICV-Universal-Lean-Build-Protocol-v1.0.md
+81268d5a3d9ec90171c7082813fbc1e31a37c06ddfc2c0999d286a9d60d752f8  RAO-LOOP-v3.0.pdf
+508f0e20a40e04ba125338071f2a7866eea838b36f9f8d8551c09f7566f85483  DivinityxEnterprises-Phase-00-Alignment-and-Canon-Lock-v1.0.md
+3d2a82449c043e29cbd5e61d268b141d39325c11d6151c6729d7a5565c9ecbbc  DivinityxEnterprises-Visual-Design-Canon-v1.0.md
+fc874001ac699f90a2df36bd634d903b9252b20c66508532f5a43cb1093f84a8  assets/Divinityx-Enterprises-Primary-Logo-Source-nine6.png
+
+# Verification command, run from docs/source:
+# sha256sum -c CANON-SOURCE-MANIFEST.txt
