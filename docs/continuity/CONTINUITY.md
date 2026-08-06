@@ -10,6 +10,8 @@ Completed Phase 00: alignment and canon lock are complete.
 
 Build Room 01 review status: source validation PASS, foundation validation PASS, founder working-tree review PASS, founder staged-diff review PASS.
 
+PR status continuity: Build Room 01 repository foundation was committed and pushed; PR #1 remains open into main and unmerged.
+
 Current Build Room status: Build Room 01 repository foundation is in scope.
 
 Locked legal decisions: entity identity, d/b/a classifications, program classifications, and Trust privacy boundary.
@@ -23,6 +25,8 @@ $0 cost ceiling: no new recurring cost is approved.
 Known unknowns: later deployment provider, DNS, exact external URLs, and later asset decisions.
 
 Deferred work: application scaffolding, route implementation, styling, and all production features.
+
+Founder correction continuity: .gitignore correction and validator hardening are in scope for Build Room 01, together with enterprise portfolio taxonomy and compact information architecture documentation lock.
 
 Application scaffold status: none exists.
 

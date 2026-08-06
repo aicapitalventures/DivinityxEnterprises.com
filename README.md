@@ -14,7 +14,11 @@ Approved future stack: React, Vite, TypeScript, Tailwind CSS, and React Router i
 
 Current state: no application has been scaffolded and no dependencies have been installed.
 
-Setup status: Build Room 01 repository foundation has passed founder working-tree and staged-diff review; governed source remains unchanged.
+Setup status: Build Room 01 repository foundation was committed and pushed on branch build/01-repository-foundation; PR #1 is open into main for governed review correction.
+
+Review correction status: founder PR review identified .gitignore and validator defects, then approved the enterprise-portfolio taxonomy lock and compact public information architecture for documentation in Build Room 01.
+
+Taxonomy implementation status: documented and locked in governance records only; no application implementation is authorized in Build Room 01.
 
 Cost boundary: $0 in new recurring cost.
 
@@ -22,4 +26,8 @@ Deployment status: no deployment provider selected and no deployment configured.
 
 Repository state: governance and protected source canon only; no application has been scaffolded.
 
-Next authorized action: complete Build Room 01 closeout commit and branch push only, then await a separate explicit founder authorization before Build Room 02.
+Merge authority: PR #1 remains open and unmerged; merge is unauthorized pending founder closeout approval.
+
+Build Room 02 status: unauthorized and unstarted.
+
+Next authorized action: complete Build Room 01 PR-review correction commit and push only, then await a separate explicit founder authorization before Build Room 02.

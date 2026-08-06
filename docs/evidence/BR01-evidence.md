@@ -6,6 +6,10 @@
 - Parent commit: 763be75dadeeffcaf06c700913a4ad48b8835bdb.
 - Pre-edit state: clean baseline with governed docs/source canon present and no application scaffold.
 - Source-intake verification: docs/source/CANON-SOURCE-MANIFEST.txt passed sha256sum -c before edits.
+- Build Room 01 baseline status: repository foundation was committed and pushed; PR #1 is open into main from build/01-repository-foundation.
+- Founder PR review correction record: .gitignore incorrectly ignored future repository paths and validator failure handling had non-terminating branches.
+- Founder decision record: enterprise portfolio taxonomy and compact public information architecture were approved for documentation lock in Build Room 01.
+- Taxonomy implementation boundary: taxonomy is documented only; no application scaffold or route implementation is authorized in Build Room 01.
 - Planned changed files: repository foundation docs, hygiene files, and validation script only.
 - Validation commands and results: `cd docs/source && sha256sum -c CANON-SOURCE-MANIFEST.txt` PASS before and after edits; `bash scripts/validate-foundation.sh` PASS; `git diff --check` PASS; `git status --short --branch` confirmed the authorized branch and only expected untracked foundation files; `git diff --stat` showed the tracked README update.
 - Validation-method mismatch record: initial full cached whitespace check (`git diff --cached --check`) stopped with exit code 2.
@@ -17,6 +21,8 @@
 - Founder staged-diff review: PASS.
 - Cost impact: $0 new recurring cost.
 - Security impact: no secrets, no private Trust data, no deployment, no backend, no auth, no payments, no analytics.
+- Merge status: PR #1 remains open and unmerged; merge remains unauthorized in Build Room 01.
+- Build Room 02 status: unauthorized and unstarted.
 - Limitations: Build Room 01 does not authorize application scaffolding or dependency installation.
 - Excluded work: docs/source changes, src, public, package.json, lockfiles, deployment configuration, and workflow setup.
 - Commit field: Authorized scoped commit; immutable SHA supplied in the Build Room 01 closeout report.

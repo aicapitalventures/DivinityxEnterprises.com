@@ -18,4 +18,8 @@ Visual Decision DXE-VISUAL-00-A: locked.
 
 Founder review before deployment: required.
 
+Registered decisions:
+
+- ADR-0001: Enterprise Portfolio Taxonomy and Public Information Architecture Lock (accepted).
+
 Unresolved decisions: external URLs, remaining logos, SignalBreak status, Divinityx Manifestation classification, hosting provider, and DNS.

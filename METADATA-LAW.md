@@ -18,20 +18,24 @@ The repository is governed by the founder-supplied source canon in docs/source, 
 
 Build Room 01 authorizes repository foundation documents, validation tooling, and protected-source preservation only. It does not authorize application scaffolding or dependency installation.
 
+Founder PR review correction lock: Build Room 01 includes corrective documentation updates for .gitignore and validator defects and records the approved enterprise-portfolio taxonomy and compact public information architecture.
+
 ## Required Fields
 
-Verdict: Approved for scoped commit and branch push in Build Room 01.
+Verdict: Approved for scoped Build Room 01 PR-review correction commit and branch push only.
 
-Next Step: Execute the authorized Build Room 01 scoped commit and push, then record immutable commit SHA and remote verification in the external closeout report.
+Next Step: Execute the authorized Build Room 01 correction commit and push, verify PR #1 remains open and unmerged, then record immutable commit SHA and remote verification.
 
 Priority: High for governance, low for implementation scope.
 
-Risk / Do Not Do: Do not touch docs/source, do not scaffold an application, do not install dependencies, and do not expand scope or cost without approval.
+Risk / Do Not Do: Do not touch docs/source, do not scaffold an application, do not install dependencies, do not deploy, do not merge PR #1, and do not begin Build Room 02 without separate explicit founder approval.
 
 Alignment: Founder working-tree review PASS, founder staged-diff review PASS, and the repository remains aligned with the founder brief, Phase 00 canon lock, the visual source-of-truth lock, and the Lean build protocol.
 
 Commit SHA and remote verification note: The immutable final commit SHA and remote verification belong in the external Build Room 01 closeout report because a commit cannot contain its own SHA.
 
-Build Room 02 status: Unauthorized until separate explicit founder approval.
+Taxonomy status: enterprise portfolio taxonomy is documented and locked as governance content only; no runtime implementation work is authorized.
+
+Build Room 02 status: Unauthorized and unstarted until separate explicit founder approval.
 
 Recommended Next Best Prompt: Generate the Build Room 01 external closeout report with final commit SHA, remote branch verification, and a separate founder authority gate for Build Room 02.

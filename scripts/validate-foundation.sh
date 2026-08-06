@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -u
+set -euo pipefail
 
 fail() {
   printf 'FAIL: %s\n' "$1" >&2
@@ -28,7 +28,7 @@ check_markdown_fences() {
   local count=0
   while IFS= read -r line; do
     if [[ "$line" == '```'* ]]; then
-      ((count++))
+      count=$((count + 1))
     fi
   done < "$file"
   if (( count % 2 != 0 )); then
@@ -82,13 +82,15 @@ for forbidden in \
   fi
 done
 
-find "$root_dir" -type f \( -name '.env' -o -name '.env.local' -o -name '.env.development' -o -name '.env.production' -o -name '.env.test' \) | while IFS= read -r file; do
+while IFS= read -r file; do
+  [[ -n "$file" ]] || continue
   fail "Unauthorized environment file present: $file"
-done
+done < <(find "$root_dir" -type f \( -name '.env' -o -name '.env.local' -o -name '.env.development' -o -name '.env.production' -o -name '.env.test' \))
 
-find "$root_dir" -type f \( -name '*.zip' -o -name '*.tar' -o -name '*.tar.gz' -o -name '*.tgz' \) | while IFS= read -r file; do
+while IFS= read -r file; do
+  [[ -n "$file" ]] || continue
   fail "Unauthorized temporary archive present: $file"
-done
+done < <(find "$root_dir" -type f \( -name '*.zip' -o -name '*.tar' -o -name '*.tar.gz' -o -name '*.tgz' \))
 
 cd "$source_dir" || fail "Unable to enter docs/source"
 sha256sum -c CANON-SOURCE-MANIFEST.txt >/tmp/divinityx-canon-check.log 2>&1 || {
@@ -125,7 +127,9 @@ check_markdown_fences "$root_dir/docs/continuity/CONTINUITY.md"
 check_markdown_fences "$root_dir/docs/manifests/SOURCE-MANIFEST.md"
 check_markdown_fences "$root_dir/docs/manifests/DECISION-REGISTER.md"
 
-git diff --cached --check -- . ':(exclude)docs/source/**'
+if ! git diff --cached --check -- . ':(exclude)docs/source/**'; then
+  fail "Non-source staged whitespace check failed"
+fi
 
 pass "Required Build Room 01 files exist and are non-empty"
 pass "Governed source hashes verified"

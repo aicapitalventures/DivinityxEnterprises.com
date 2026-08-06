@@ -12,6 +12,8 @@ The branch is build/01-repository-foundation, HEAD is the authorized baseline co
 
 Create the repository foundation documents, root hygiene files, and validation tooling required for later approved application work.
 
+This build room additionally authorizes founder-directed PR review corrections for .gitignore and validator behavior and records the enterprise portfolio taxonomy lock as governance documentation only.
+
 ## Included Scope
 
 - Root governance documents
@@ -26,6 +28,7 @@ Create the repository foundation documents, root hygiene files, and validation t
 - Application scaffolding
 - Dependency installation
 - Backend, database, auth, CMS, analytics, AI, payments, or deployment work
+- Build Room 02 implementation or merge of PR #1
 
 ## Affected Files
 
@@ -53,6 +56,8 @@ If validation fails, repair only the in-scope Build Room 01 defect, rerun the fu
 ## Definition of Done
 
 The foundation files exist, are non-empty, the governed source hashes pass, and the repository still contains no unauthorized scaffold or dependency files.
+
+The PR review correction updates are applied only to authorized files, enterprise taxonomy and compact route governance are documented, and PR #1 remains open and unmerged.
 
 ## Stop Boundary
 
