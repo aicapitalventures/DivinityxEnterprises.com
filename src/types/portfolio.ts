@@ -1,0 +1,36 @@
+export type PortfolioClassification =
+  | 'Parent Company'
+  | 'Registered Operating Division'
+  | 'Operating Brand'
+  | 'Platform in Development'
+  | 'Program'
+  | 'Media Property'
+  | 'Initiative in Development';
+
+export type DestinationType = 'internal' | 'external' | 'email' | 'coming-soon';
+
+export type PortfolioRegistryEntry = {
+  id: string;
+  slug: string;
+  fullName: string;
+  shortName: string;
+  classification: PortfolioClassification;
+  legalOperator: string;
+  parentId: string | null;
+  registeredAssumedName: string | null;
+  operatingStatus: 'active' | 'in-development';
+  description: string;
+  destinationType: DestinationType;
+  destinationUrl: string;
+  disclosure: string;
+  displayOrder: number;
+  group:
+    | 'Parent Company'
+    | 'Registered Operating Divisions'
+    | 'Operating Brands and Platforms'
+    | 'Programs, Systems, and Media Properties'
+    | 'Developing and Mission-Driven Initiatives';
+  logoPath?: string;
+  logoAlt?: string;
+  accent: 'gold' | 'blue' | 'red' | 'white';
+};
