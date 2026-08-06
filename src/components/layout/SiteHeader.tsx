@@ -1,37 +1,3 @@
 import { NavLink } from 'react-router-dom';
-
-const navItems = [
-  { to: '/', label: 'Home' },
-  { to: '/ecosystem', label: 'Companies & Brands' },
-  { to: '/about', label: 'About' },
-  { to: '/contact', label: 'Contact' },
-];
-
-export function SiteHeader() {
-  return (
-    <header className="sticky top-0 z-20 border-b border-heritage/30 bg-cosmic/80 backdrop-blur-md">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-8">
-        <NavLink to="/" className="font-heading text-xl text-champagne focus-visible:outline focus-visible:outline-2 focus-visible:outline-luminous">
-          Divinityx Enterprises LLC
-        </NavLink>
-        <nav aria-label="Primary" className="flex flex-wrap items-center gap-2">
-          {navItems.map((item) => (
-            <NavLink
-              key={item.to}
-              to={item.to}
-              className={({ isActive }) =>
-                `rounded-full px-3 py-2 text-sm transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-luminous ${
-                  isActive
-                    ? 'bg-heritage/30 text-champagne'
-                    : 'text-ivory/90 hover:bg-navy/70 hover:text-luminous'
-                }`
-              }
-            >
-              {item.label}
-            </NavLink>
-          ))}
-        </nav>
-      </div>
-    </header>
-  );
-}
+const nav=[['/','Home'],['/ecosystem','Companies & Brands'],['/about','About'],['/contact','Contact']];
+export function SiteHeader(){return <header className="sticky top-0 z-30 border-b border-crest/20 bg-cosmic/90 backdrop-blur-xl"><div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 md:px-8"><NavLink to="/" className="group flex min-w-0 items-center gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-luminous"><img src="/assets/brand/divinityx-enterprises.webp" alt="" className="h-11 w-11 rounded-full object-cover object-top ring-1 ring-crest/45 transition group-hover:ring-luminous"/><span className="hidden font-heading text-sm tracking-[.08em] text-champagne sm:block lg:text-base">Divinityx Enterprises <span className="text-[.7em] text-luminous/75">LLC</span></span></NavLink><nav aria-label="Primary" className="flex items-center gap-1 overflow-x-auto">{nav.map(([to,label])=><NavLink key={to} to={to} className={({isActive})=>`whitespace-nowrap rounded-full px-3 py-2 text-xs font-semibold transition md:text-sm ${isActive?'bg-heritage/35 text-champagne ring-1 ring-crest/25':'text-ivory/80 hover:bg-navy hover:text-luminous'}`}>{label}</NavLink>)}</nav></div></header>}
