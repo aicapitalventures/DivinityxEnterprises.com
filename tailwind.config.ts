@@ -5,8 +5,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        heading: ['Cinzel', 'Georgia', 'serif'],
-        body: ['Source Sans 3', 'Segoe UI', 'sans-serif'],
+        heading: ['Georgia', 'Times New Roman', 'serif'],
+        body: ['Segoe UI', 'Helvetica Neue', 'sans-serif'],
       },
       colors: {
         cosmic: '#070811',
