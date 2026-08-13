@@ -123,3 +123,43 @@ Scope: public production artwork and the evidence available in this repository. 
 - Production derivative: `public/assets/brand/divinityx-manifestation.webp`; SHA-256: `e09fa511af06db20c306a793bd17c6783d91b044fde6cdc9da7563d71197f5bc`; 1250 x 950 transparent WebP.
 - Transformation: conservative presentation crop around the intact emblem and wordmark, metadata stripped, WebP encoded. No symbol or typography changed.
 - Legal-classification restriction: Initiative in Development requiring final classification; no additional legal or operating status is implied.
+
+
+## Founder-Approved Master-Brand Derivatives — 2026-08-13
+
+Founder approval was recorded in the project conversation for all three derivatives below. These are source-derived presentation assets; they do not replace or modify the protected founder-supplied source at `docs/source/**`, and they do not change legal taxonomy or operating status.
+
+### Full transparent crest and wordmark
+
+- Source filename: `divinityx-enterprises-full-transparent-approved.png`; source SHA-256: `14905d072be8e38f58616bc2922607c9fca15f2c569f6136f53e975f0347359c`.
+- Source location: `brand-assets/source/divinityx-enterprises-full-transparent-approved.png`; 1145 x 1374 RGBA PNG; transparency verified.
+- Status: selected; founder-approved source-derived presentation identity. Replacement needed: no.
+- Production derivative: `public/assets/brand/divinityx-enterprises-full.webp`; SHA-256: `7158f3e3fb6a7b282802b4d0089606c55ca027543b4a761f128fc87b67eaf34f`; 1145 x 1374 transparent WebP.
+- Transformation: metadata stripped and WebP encoded; no upscaling, runtime crop, background box, or aspect-ratio change.
+- Use: homepage hero and Divinityx Enterprises parent-company profile only.
+
+### Compact transparent emblem
+
+- Source filename: `divinityx-enterprises-emblem-transparent-approved.png`; source SHA-256: `fc32b12e185594cd5113da06e062e150602c43d4a7e3e173d1eecac04f8a4af9`.
+- Source location: `brand-assets/source/divinityx-enterprises-emblem-transparent-approved.png`; 1254 x 1254 RGBA PNG; transparency verified.
+- Status: selected; founder-approved source-derived compact identity. Replacement needed: no.
+- Production derivative: `public/assets/brand/divinityx-enterprises-emblem.webp`; SHA-256: `39c697c0cea1109e9fd7f7e91de9bbef5aa889976361637ba9e498e844728ad4`; 600 x 600 transparent WebP.
+- Transformation: downscaled only, metadata stripped and WebP encoded; no upscaling or aspect-ratio change.
+- Use: header, footer, and contact interface beside live legal-name text. Decorative duplicates use empty alternative text.
+
+### Cosmic website background
+
+- Source filename: `divinityx-cosmic-background-approved.png`; source SHA-256: `0eeb9de76f32407f4f456e0040e398f5fd172dae29a18006c86cfcb4e3971a5d`.
+- Source location: `brand-assets/source/divinityx-cosmic-background-approved.png`; 1672 x 941 RGB PNG; opaque.
+- Visible embedded wording: none. No logo, crest, shield, laurel, crescent, monogram, border, or watermark is embedded.
+- Status: selected; founder-approved source-derived atmospheric background. Replacement needed: no.
+- Production derivative: `public/assets/brand/divinityx-cosmic-background.webp`; SHA-256: `b83b2515538812ef2435271c182b953535e702c546801e1c1d5598b7992559d1`; 1672 x 941 opaque WebP.
+- Transformation: metadata stripped and WebP encoded; no upscaling or aspect-ratio change. CSS cover-cropping is responsive presentation behavior and does not modify the asset.
+
+### Social derivative and validation disclosure
+
+- Social derivative: `public/assets/brand/divinityx-enterprises-social-preview.png`; SHA-256: `5855b72c3ff2767074018b4e8d66dc7b287026290513ebcda8567d6fd085b7f5`; 1200 x 630 opaque PNG.
+- Transformation: approved full transparent crest composited over the approved cosmic background and center-cropped to the standard social aspect ratio. No replacement wording was invented.
+- Validation: typecheck, lint, production build, placeholder-link scan, external-font scan, and all required route/asset HTTP checks passed. Responsive CSS was inspected at the declared 1440, 1024, 390, and 320 pixel breakpoints; intrinsic dimensions, contain behavior, wrapping, and minimum-width safeguards are present.
+- Limitation: raster browser screenshots were not produced in the execution container because no browser binary was installed and the allowed network could not supply one. Final founder visual review remains required in the existing Codespace preview before merge.
+- Legal-classification restriction: all artwork is identity and presentation evidence only. It does not establish trademark registration, a new DBA, subsidiary, LLC, nonprofit, church, lender, financial institution, licensing status, or any change to the portfolio registry.
