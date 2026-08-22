@@ -31,13 +31,19 @@ Operating brand:
 - Business Funding and Profit Systems (BFPS) is a business-infrastructure and profit-development operating brand of Divinityx Enterprises LLC.
 - BFPS must not be described as a separate legal company, a registered assumed name, a lender, a financial institution, a licensed investment adviser, a credit-repair organization, or a provider of guaranteed funding or financial outcomes unless later approved records establish a different status.
 
+Active digital product:
+
+- PAYCHEKX™ is an active financial-clarity digital product developed by Artificial Intelligence Capital Ventures and legally operated by Divinityx Enterprises LLC.
+- PAYCHEKX™ is not a separate legal entity, financial institution, lender, investment adviser, or provider of individualized financial advice.
+
 ## Program, Platform, Media, and Mission Classifications
 
-Voice to Legacy™ is a publishing-development program. Fundability Labs™ is an in-development business-structuring platform. Divinityx Media is an in-development media and communications division. SignalBreak™ is an associated public-interest intelligence and media property. Divinityx Ministries and Divinityx Manifestation remain in-development mission and faith initiatives with restrained public descriptions only.
+Voice to Legacy™ is a publishing-development program. PAYCHEKX™ is an active AICV digital product. Fundability Labs™ is an in-development business-structuring platform. Divinityx Media is an in-development media and communications division. SignalBreak™ is an associated public-interest intelligence and media property. Divinityx Ministries and Divinityx Manifestation remain in-development mission and faith initiatives with restrained public descriptions only.
 
 Program and initiative relationships:
 
 - Voice to Legacy™ is a publishing-development program of Divinityx Enterprises LLC d/b/a Divinityx Publishing Company.
+- PAYCHEKX™ is an AICV-developed digital product operated by Divinityx Enterprises LLC.
 - Fundability Labs™ is a business-readiness and fundability-development platform in development.
 - Divinityx Media is a media and communications initiative in development.
 - SignalBreak™ is a public-interest intelligence and media property associated with Divinityx Media.

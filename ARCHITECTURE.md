@@ -47,6 +47,7 @@ The homepage must prominently route visitors to the Companies & Brands page.
 - Parent legal and operating company: Divinityx Enterprises LLC.
 - Registered operating divisions (d/b/a): Divinityx Publishing Company, Artificial Intelligence Capital Ventures, and Carfixd Automotive.
 - Operating brand: Business Funding and Profit Systems (BFPS).
+- Active digital product: PAYCHEKX™, developed by Artificial Intelligence Capital Ventures and operated by Divinityx Enterprises LLC.
 - Programs and initiatives: Voice to Legacy™, Fundability Labs™, Divinityx Media, SignalBreak™, Divinityx Ministries, and Divinityx Manifestation.
 
 No entry may be represented as a separate LLC, subsidiary, registered assumed name, financial institution, nonprofit, church, or licensed professional service without governing records supporting that classification.
@@ -72,6 +73,17 @@ Build Room 02 must implement a centralized portfolio registry with at minimum th
 
 Every public card must display full public name, actual classification, relationship to Divinityx Enterprises LLC, current operating status, approved description, and a valid destination or an honest Coming Soon state.
 
+## Verified External Destinations
+
+Founder-approved external destinations recorded by DXE-LINK-AUDIT-001:
+
+- Divinityx Publishing Company: `https://divinityxpublishing.com/`
+- Carfixd Automotive: `https://www.carfixdauto.com/`
+- Voice to Legacy™: `https://voicetolegacy.org/`
+- PAYCHEKX™: `https://paychekx.com/`
+
+Cards with verified active websites open those destinations in a new tab with an accessible external-link label. Entries without a verified active website retain their internal ecosystem profile. SignalBreak™ remains internal while its custom domain and public platform are still being built.
+
 ## Explicit Non-Goals
 
 There is no backend, database, authentication, CMS, payments system, AI API integration, or analytics dependency in the approved destination architecture.
@@ -80,4 +92,4 @@ No deployment provider has been selected, and no production hosting configuratio
 
 ## Current State
 
-The application has not been scaffolded. This document records the approved destination architecture and taxonomy lock only and does not imply that the stack has been installed or initialized.
+The static application is implemented on `build/02-site-implementation` and remains inside Draft PR #2. Merge and deployment remain subject to founder approval.

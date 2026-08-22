@@ -41,6 +41,17 @@ Scope: public production artwork and the evidence available in this repository. 
 - Production derivative: none. Transformation and crop or masking: not applicable.
 - Legal-classification restriction: Registered Operating Division / registered assumed name; not a separate LLC or subsidiary.
 
+### PAYCHEKX(TM)
+
+- Public portfolio entry: `paychekx`; visible identity: PAYCHEKX shield, dollar sign, motion lines, and wordmark.
+- Source filename: `paychekx-official.jpg`; source SHA-256: `8c0c4c0eb6e0adb0f50fdf242e15fb542ed86ddbed2aaed92e6e46812f5ee7a4`.
+- Source location: `brand-assets/source/paychekx-official.jpg`.
+- Source dimensions and format: 199 x 200 progressive JPEG, RGB. Visible embedded wording: “PAYCHEKX.”
+- Status: selected founder-supplied identity. Approval status: supplied with DXE-LINK-AUDIT-001 on 2026-08-22. Replacement needed: higher-resolution source preferred when available, but not required for the current card presentation.
+- Production derivative: `public/assets/brand/paychekx.webp`; SHA-256: `2a6bbd12800da2f1a5a3d267d2962790e1b9cc70392c2dfb2fb1f8c80554075f`; 199 x 200 opaque WebP.
+- Transformation: metadata stripped and WebP encoded at source dimensions; no upscaling, recoloring, symbol change, or destructive source edit. The circular card presentation is applied through CSS clipping only.
+- Legal-classification restriction: Active Digital Product developed by Artificial Intelligence Capital Ventures and operated by Divinityx Enterprises LLC; not a separate legal entity, financial institution, lender, investment adviser, or provider of individualized financial advice.
+
 ### Voice to Legacy(TM)
 
 - Public portfolio entry: `voice-to-legacy`; visible identity: official profile, waveform, open-book and quill wordmark.
