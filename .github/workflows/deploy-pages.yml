@@ -1,9 +1,10 @@
-name: Deploy Divinityx Enterprises to GitHub Pages
+name: Build and Deploy Divinityx Enterprises
 
 on:
   push:
     branches:
       - main
+      - build/02-site-implementation
   workflow_dispatch:
 
 permissions:
@@ -13,7 +14,7 @@ permissions:
   actions: read
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -42,14 +43,17 @@ jobs:
         run: cp dist/index.html dist/404.html
 
       - name: Configure GitHub Pages
+        if: github.ref == 'refs/heads/main'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./dist
 
   deploy:
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
