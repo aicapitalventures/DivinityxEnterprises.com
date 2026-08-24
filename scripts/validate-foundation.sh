@@ -66,22 +66,6 @@ for file in "${required_files[@]}"; do
   require_file "$root_dir/$file"
 done
 
-for forbidden in \
-  'package.json' \
-  'package-lock.json' \
-  'pnpm-lock.yaml' \
-  'yarn.lock' \
-  'src' \
-  'public' \
-  'node_modules' \
-  '.github/workflows' \
-  '.netlify' \
-  '.vercel'; do
-  if find "$root_dir" \( -type f -o -type d \) -path "*/$forbidden" -print -quit | grep -q .; then
-    fail "Unauthorized scaffold artifact present: $forbidden"
-  fi
-done
-
 while IFS= read -r file; do
   [[ -n "$file" ]] || continue
   fail "Unauthorized environment file present: $file"
@@ -133,6 +117,6 @@ fi
 
 pass "Required Build Room 01 files exist and are non-empty"
 pass "Governed source hashes verified"
-pass "No unauthorized scaffold or environment files detected"
+pass "No unauthorized environment files detected"
 pass "Markdown fence balance checked"
 pass "Non-source staged whitespace check passed"

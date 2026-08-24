@@ -1,0 +1,2 @@
+import type { ReactNode } from 'react';
+export function PageIntro({eyebrow,title,copy,actions}:{eyebrow?:string;title:string;copy:string;actions?:ReactNode}){return <header className="max-w-4xl pb-12">{eyebrow&&<p className="eyebrow">{eyebrow}</p>}<h1 className="mt-5 font-heading text-4xl leading-[1.08] text-champagne md:text-6xl">{title}</h1><p className="mt-5 max-w-3xl text-lg leading-relaxed text-ivory/78">{copy}</p>{actions&&<div className="mt-7 flex flex-wrap gap-3">{actions}</div>}</header>}

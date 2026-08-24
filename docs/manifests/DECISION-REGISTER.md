@@ -22,4 +22,12 @@ Registered decisions:
 
 - ADR-0001: Enterprise Portfolio Taxonomy and Public Information Architecture Lock (accepted).
 
-Unresolved decisions: external URLs, remaining logos, SignalBreak status, Divinityx Manifestation classification, hosting provider, and DNS.
+Founder decision DXE-LINK-AUDIT-001, 2026-08-22:
+
+- PAYCHEKX™ is approved as an active AICV digital product operated by Divinityx Enterprises LLC.
+- Verified external destinations are approved for Divinityx Publishing Company, Carfixd Automotive, Voice to Legacy™, and PAYCHEKX™.
+- Entries without verified active websites retain internal ecosystem profiles.
+- SignalBreak™ remains an internal-profile destination while `signalbreak.media` and the platform are still being built.
+- No merge or deployment is authorized by this decision.
+
+Unresolved decisions: remaining logos, final SignalBreak operating status, Divinityx Manifestation classification, hosting provider, and corrected DNS/hosting for `divinityxenterprises.com` and `signalbreak.media`.
